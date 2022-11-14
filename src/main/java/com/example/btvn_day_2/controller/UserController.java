@@ -1,6 +1,5 @@
 package com.example.btvn_day_2.controller;
 
-import com.example.btvn_day_2.model.User;
 import com.example.btvn_day_2.model.UserDTO;
 import com.example.btvn_day_2.request.InsertRequest;
 import com.example.btvn_day_2.service.UserService;
